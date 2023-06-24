@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roxys-mith
+- 👋 Hi, I’m @Roxys-mith <img width="20" height="22" src="https://www.pngmart.com/files/22/Bluetick-PNG-HD.png" class="attachment-full size-full wp-post-image lazyloaded" alt="Bluetick PNG HD" decoding="async" sizes="(max-width: 2261px) 100vw, 2261px" srcset="https://www.pngmart.com/files/22/Bluetick-PNG-HD.png 2261w, https://www.pngmart.com/files/22/Bluetick-PNG-HD-80x80.png 80w, https://www.pngmart.com/files/22/Bluetick-PNG-HD-200x198.png 200w" data-ll-status="loaded">
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,3 +8,4 @@
 Roxys-mith/Roxys-mith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="42" height="40" class="attachment-420x279 wp-post-image lazyloaded" alt="Youtube Logo PNG Isolated Photo" title="Youtube Logo PNG Isolated Photo" src="https://www.pngmart.com/files/20/Youtube-Logo-PNG-Isolated-Photo.png" data-ll-status="loaded">  <img width="45" height="50" class="attachment-420x279 wp-post-image lazyloaded" alt="Arow PNG Pic" title="Arow PNG Pic" src="https://www.pngmart.com/files/22/Arow-PNG-Pic.png" data-ll-status="loaded">   <img width="45" height="50" src="https://www.pngmart.com/files/3/World-Wide-Web-PNG-Image.png" class="attachment-full size-full wp-post-image lazyloaded" alt="World Wide Web PNG Image" decoding="async" sizes="(max-width: 1997px) 100vw, 1997px" srcset="https://www.pngmart.com/files/3/World-Wide-Web-PNG-Image.png 1997w, https://www.pngmart.com/files/3/World-Wide-Web-PNG-Image-301x279.png 301w" data-ll-status="loaded">
